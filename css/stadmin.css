@@ -1,0 +1,71 @@
+.slider{
+    background: url("../img/bg-3.png");
+    background-size: cover;
+    height: 375px;
+    background-position: center;
+    padding-top: 10px;
+}
+.lroja{
+    color: #FF0D00;
+}
+.lverde{
+    color: rgba(15, 255, 27, 0.986);
+}
+.lrosa{
+    color: #FF5980;
+}
+.lazul{
+    color: #348DCC;
+}
+.lcele{
+    color: aqua;
+}
+
+@font-face {
+	font-family: rale;
+	src: url(../fuentes/Raleway-Regular.ttf) ;
+}
+@font-face{
+	font-family: lato;
+	src: url(../fuentes/Lato-Light.ttf);
+}
+
+.letra-fuente{
+    font-family: rale;
+}
+.slidernene{
+    
+    background-position: center;
+    height: 60%;
+    width: 100%;
+    box-sizing: border-box;
+    margin: auto;
+    background-size: cover;
+    margin-top: 50px;
+    transform: scaleX(-1)
+}
+.slidernena{
+    
+    background-position: center;
+    height: 70%;
+    width: 900%;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+    background-size: cover;
+}
+
+.espaciado{
+    padding-top: 40px;
+}
+
+.rosado{
+    background: hotpink;
+}
+
+.sizeimg{
+    height: 400px;
+    width: 348px;
+    margin: auto;
+    margin-top: 25px;
+}
